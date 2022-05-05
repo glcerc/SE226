@@ -1,7 +1,7 @@
 #Question 1
 myList = []
 print(myList)
-myList.append("İlhan Mert")
+myList.append("Gülce")
 print(myList)
 myList.append("Python")
 print(myList)
