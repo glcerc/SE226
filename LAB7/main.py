@@ -12,7 +12,7 @@ cv2.imshow("Red", R)
 cv2.imshow("Green", G)
 
 cv2.imshow("Blue", B)
-for x in range(0, 100):
+for x in range(0, 125):
     for y in range(0, 200):
         B[x*1,y*2]= B[x,3]
         R[x*2,y*2] = R[x,y]
